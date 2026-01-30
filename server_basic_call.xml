@@ -3,7 +3,7 @@
 
 <!-- SIPp acts as UAS and receives call. -->
 <scenario name="SIPp UAS">
-
+ 
   <!-- Declaration of variables -->
   <nop>
     <action>
